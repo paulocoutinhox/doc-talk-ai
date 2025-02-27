@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-google-genai
+chromadb
+unstructured[pdf,txt,md,docx,xlsx,csv,epub]
+

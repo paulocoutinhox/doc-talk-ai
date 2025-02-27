@@ -1,0 +1,17 @@
+*.pyc
+.DS_Store
+node_modules/
+build/
+.idea/
+venv
+.env
+*.iml
+Thumbs.db
+.vscode
+__pycache__
+*.lock
+.gradio/
+.venv/
+*.pkl
+uploads/
+chroma-db/
